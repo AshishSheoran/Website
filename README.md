@@ -2,6 +2,4 @@
 
 This is really awesome website.
 
-Now updating readme on updating-readme branch.
-
-Updated locally.
+Updates made on readme before rebase
